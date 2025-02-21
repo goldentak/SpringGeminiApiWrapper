@@ -1,13 +1,11 @@
 # SpringGeminiApiWrapper
 This project is a Spring Boot application following an MVC structure. App.java serves as the main entry point. SecurityConfig.java manages authentication, using Spring Security. MainController.java and AiController.java handle web requests, while UserService.java contains business logic for users. UserRepository.java is an in-memory store using HashMap. JwtUtil.java handles JWT authentication.
 ___
-[![Maven Central](https://img.shields.io/maven-central/v/com.example/app?color=orange)](https://central.sonatype.com/artifact/com.example/app)
 [![Java Version](https://img.shields.io/badge/Java-17%2B-blueviolet)](https://www.oracle.com/java/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.0-green)](https://spring.io/projects/spring-boot)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/com-example/app?color=blueviolet)](https://github.com/com-example/app/pulls)
-[![License](https://img.shields.io/github/license/com-example/app?color=blueviolet)](https://github.com/com-example/app/blob/main/LICENSE)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/goldentak/SpringGeminiApiWrapper?color=blueviolet)](https://github.com/goldentak/SpringGeminiApiWrapper/pulls)
+[![License](https://img.shields.io/github/license/goldentak/SpringGeminiApiWrapper?color=blueviolet)](https://github.com/goldentak/SpringGeminiApiWrapper/blob/main/LICENSE)
 [![Forks](https://img.shields.io/github/forks/goldentak/SpringGeminiApiWrapper?style=social)](https://github.com/goldentak/SpringGeminiApiWrapper/network/members)
-
 
 ---
 ### Stack
