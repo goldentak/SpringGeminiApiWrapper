@@ -1,0 +1,11 @@
+/Users/dulatulynurasyl/VSCODE/fromzero/src/main/java/com/example/app/controllers/AiController.java
+/Users/dulatulynurasyl/VSCODE/fromzero/src/main/java/com/example/app/repository/UserRepository.java
+/Users/dulatulynurasyl/VSCODE/fromzero/src/main/java/com/example/app/App.java
+/Users/dulatulynurasyl/VSCODE/fromzero/src/main/java/com/example/app/dto/UserDto.java
+/Users/dulatulynurasyl/VSCODE/fromzero/src/main/java/com/example/app/models/User.java
+/Users/dulatulynurasyl/VSCODE/fromzero/src/main/java/com/example/app/config/SecurityConfig.java
+/Users/dulatulynurasyl/VSCODE/fromzero/src/main/java/com/example/app/controllers/MainController.java
+/Users/dulatulynurasyl/VSCODE/fromzero/src/main/java/com/example/app/models/Message.java
+/Users/dulatulynurasyl/VSCODE/fromzero/src/main/java/com/example/app/services/JwtUtil.java
+/Users/dulatulynurasyl/VSCODE/fromzero/src/main/java/com/example/app/services/UserService.java
+/Users/dulatulynurasyl/VSCODE/fromzero/src/main/java/com/example/app/services/GeminiService.java

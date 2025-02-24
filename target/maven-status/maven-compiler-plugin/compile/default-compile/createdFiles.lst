@@ -1,0 +1,11 @@
+com/example/app/services/GeminiService.class
+com/example/app/controllers/AiController.class
+com/example/app/services/UserService.class
+com/example/app/controllers/MainController.class
+com/example/app/services/JwtUtil.class
+com/example/app/config/SecurityConfig.class
+com/example/app/models/Message.class
+com/example/app/models/User.class
+com/example/app/repository/UserRepository.class
+com/example/app/dto/UserDto.class
+com/example/app/App.class
